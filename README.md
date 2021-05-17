@@ -11,5 +11,5 @@
 </div>
 <br/>
 <div align="center">
-  Software development is my passion . I'm seeking to be more professional in my career especially back-end development . I'm a senior .net developer graduated from the faculity of computer and information scinece with skills : ASP.NET MVC , ASP.NET Core , SQL , WEB API .
+  Hi, I'm Ahmed Fouad. Software development is my passion. I'm seeking to be more professional in my career especially in back-end development. I'm a senior .net developer. I graduated from the faculty of computer and information science with skills: ASP.NET MVC, ASP.NET Core, SQL, WEB API.
 </div>
