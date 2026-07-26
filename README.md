@@ -84,17 +84,13 @@ pie showData title Where my time goes
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedfoad&show_icons=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=555&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedfoad&show_icons=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=555&count_private=true" alt="GitHub stats"/>
   &nbsp;
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfoad&hide_border=true&stroke=512BD4&ring=512BD4&fire=FC5D0D&currStreakLabel=512BD4" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfoad&layout=compact&hide_border=true&title_color=512BD4&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfoad&theme=flat&no-frame=true&column=7&margin-w=8&title_color=512BD4" alt="Trophies"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedfoad&layout=compact&hide_border=true&title_color=512BD4&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
